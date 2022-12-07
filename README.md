@@ -13,7 +13,7 @@
         </div>
         <div align="left">
        <h2>👨‍💻 About Me :</h2>
-  <p> - 🌱 Actualmente estoy aprendiendo React Native y
+  <p> - 🌱 Actualmente estoy aprendiendo React Native , TypeScript y
             Realizando cursos de CSS<p/>
             <p>- 📫 Cómo contactarme : emilianogarciaokk@gmail.com<p/>
         </div> 
